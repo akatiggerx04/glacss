@@ -1,0 +1,33 @@
+@use '../glass';
+
+.glass-rounded-sm {
+    border-radius: 0.125rem;
+}
+
+.glass-rounded-md {
+    border-radius: 0.375rem;
+}
+
+.glass-rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.glass-rounded-xl {
+    border-radius: 0.75rem;
+}
+
+.glass-rounded-2xl {
+    border-radius: 1rem;
+}
+
+.glass-rounded-3xl {
+    border-radius: 1.5rem;
+}
+
+.glass-rounded-full {
+    border-radius: 50%;
+}
+
+.glass-rounded-none {
+    border-radius: 0;
+}

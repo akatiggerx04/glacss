@@ -1,0 +1,27 @@
+@use 'variables';
+
+@mixin glass {
+    background: var(--glacss-bg);
+    border: var(--glacss-outline) solid var(--glacss-outline-color);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(var(--glacss-blur));
+    -webkit-backdrop-filter: blur(var(--glacss-blur));
+}
+
+@mixin glass-dark {
+    background: var(--glacss-bg-dark);
+    border: var(--glacss-outline) solid var(--glacss-outline-color-dark);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(var(--glacss-blur));
+    -webkit-backdrop-filter: blur(var(--glacss-blur));
+}
+
+.glass {
+    @include glass;
+    border-radius: var(--glacss-border-radius);
+}
+
+.glass-dark {
+    @include glass-dark;
+    border-radius: var(--glacss-border-radius);
+}

@@ -1,0 +1,17 @@
+$glacss-bg: rgba(255, 255, 255, 0.2) !default;
+$glacss-bg-dark: rgba(0, 0, 0, 0.2) !default;
+$glacss-blur: 4px !default;
+$glacss-outline: 1px !default;
+$glacss-outline-color: rgba(255, 255, 255, 0.3) !default;
+$glacss-outline-color-dark: rgba(50, 50, 50, 0.1) !default;
+$glacss-default-border-radius: 15px !default;
+
+:root {
+    --glacss-bg: #{$glacss-bg};
+    --glacss-bg-dark: #{$glacss-bg-dark};
+    --glacss-blur: #{$glacss-blur};
+    --glacss-outline: #{$glacss-outline};
+    --glacss-outline-color: #{$glacss-outline-color};
+    --glacss-outline-color-dark: #{$glacss-outline-color-dark};
+    --glacss-border-radius: #{$glacss-default-border-radius};
+}
