@@ -4,7 +4,7 @@ Glacss is a lightweight and easy-to-use CSS mini framework that allows you to ad
 
 ## Getting Started
 
-To get started with Glacss, simply download the [glacss.min.css](https://github.com/akatiggerx04/glacss/glacss.min.css) file and include it in your HTML file:
+To get started with Glacss, simply download the [glacss.min.css](https://github.com/akatiggerx04/glacss/blob/main/glacss.min.css) file and include it in your HTML file:
 
 ```html
 <head>
@@ -96,3 +96,10 @@ Here are some examples of how you can use **glacss** to add glass effect to your
 
 If you'd like to contribute to **glacss**, feel free to submit a pull request or open an issue on our [GitHub repository](https://github.com/akatiggerx04/glacss). We welcome any feedback, suggestions, or bug reports!
 
+## License
+
+Glacss is licensed under the [Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). This means that anyone who uses, modifies, or distributes Glacss must make the full source code available under the same AGPL license.
+
+You are free to use, modify, and distribute Glacss as long as you comply with the terms of the AGPL. However, if you plan to use Glacss in a commercial product, please note that the AGPL may require you to make the full source code of your product available to your users.
+
+For more information on the AGPL, please see the [GNU website](https://www.gnu.org/licenses/why-affero-gpl.en.html).
