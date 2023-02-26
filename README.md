@@ -1,4 +1,4 @@
-# Glacss
+# Glacss - Glassmorphism Made Easy!
 
 Glacss is a lightweight and easy-to-use CSS mini framework that allows you to add glass effect to any HTML element. Whether you are a beginner or an experienced developer, Glacss is designed to simplify the process of creating glassy elements, without requiring any complex CSS or JavaScript code.
 
